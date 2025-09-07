@@ -9,6 +9,33 @@
 
 ---
 
+### **The Lore: "The Ghost of the Event Horizon"**
+
+**"The universe runs on three things: energy, information, and untraceable bullets. I deal in all three. What's your problem missing?"**
+
+Kaelen Vesper wasn't born; he was forged in the dripping, neon-soaked crucible of Neon's underbelly. To him, the massive city wasn't a marvel of engineering; it was a jungle of opportunity, each level a different ecosystem of predators and prey. He learned the core truths of existence early: a sharp wit was a better weapon than a sharp knife, a trusted contact was more valuable than a full credit chip, and the only law that mattered was the one you couldn't be caught breaking.
+
+He wasn't a Disciple, all rage and chaos. He wasn't a Striker, all honor and bluster. He was something far more dangerous: an independent contractor. He started small—running packages for Ryujin middle-managers who couldn't be seen, "convincing" shopkeepers to pay their protection fees to the right people, using his silver tongue and quick fingers to solve problems that required a light touch, not a sledgehammer.
+
+His reputation grew. He became the guy you called when you needed something to disappear, or someone to disappear, without a trace. He was a ghost in the machine of Neon's underworld, a whisper of a name: *Vesper*.
+
+His big break was a job from a high-level Ryujin exec: a simple data retrieval from a secure orbital facility. The pay was astronomical. It was also a trap. The data was a honey-pot, the facility was swarming with SysDef, and the exec left him to take the fall. Facing a lifetime in a Cyrocell, Kael did the only thing he could: he fought his way out, commandeered a sleek, modified Razorleaf interceptor gathering dust in the facility's hangar, and blasted his way to freedom.
+
+In that moment, *Kaelen Vesper* the Neon gutter-rat died, and **Kaelen "Kael" Vesper**, the freelance problem-solver, was born. He renamed the ship **The Event Horizon**—the point of no return. And he had certainly passed it.
+
+He now operates on a simple, brutal code: **The Vesper Accord**. 
+1.  **Get Paid.**
+2.  **No Questions Asked.**
+3.  **The Package *Always* Gets Through.**
+
+His morality is a sliding scale calibrated by credit chips and personal freedom. He can perform an act of genuine kindness for the right price and commit a breathtaking betrayal for a better one. He’ll help a settlement fend off pirates, then sell the recovered loot to a Fleet fence. He believes the universe is a game, and he's the only player who knows he's playing.
+
+He is a master of the deal because his life depends on it. His tongue is his primary weapon, his charm a shield, and his reputation his only currency. He is a creature of the void because it is the only place where he is truly free, ungovernable, and utterly untouchable. The *Event Horizon* is his sanctuary, his flagship, and his avatar—a silent, swift predator in the dark between stars.
+
+He isn't searching for answers. He's searching for the next score, the next challenge, the next step towards a goal only he understands: to become so wealthy, so connected, and so feared that the entire Settled Systems become his personal playground. He is a sovereign entity of chaos and credit, and business has never been better.
+
+---
+
 ### Character creation: Kaelen Vesper
 
 **1. Background:**
