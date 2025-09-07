@@ -7,6 +7,60 @@
 
 ---
 
+### Character Creation Summary
+
+| Category | Selection | Rationale |
+| :--- | :--- | :--- |
+| **Background** | **Professor** | Provides the perfect scholarly foundation with starting skills in **Geology** (xeno-geology focus), **Surveying** (planetary analysis), and **Research Methods** (scientific rigor) . |
+| **Traits** | **Introvert**, **Terra Firma**, **Taskmaster** | **Introvert** suits his solitary nature and provides a game-play benefit when alone. **Terra Firma** enhances his capabilities on planetary surfaces, his true laboratory. **Taskmaster** reflects his exacting standards as a leader, though he rarely uses crew . |
+| **Body & Face** | **Older, Weathered Academic** | Choose a body type and face that reflects his age (50s+) and profession. Select a **serious, focused expression**. Use **refine options** to add subtle signs of stress and aging from a life of grief and intense study. Hair should be practical, perhaps graying. |
+| **Name** | **Aris Thorne** | Finalize his identity. |
+
+---
+
+### **Detailed Breakdown of Choices**
+
+#### **1. Background: Professor**
+This is the only logical choice. The Professor background provides the following three starting skills, which are the absolute cornerstone of his build :
+*   **Geology:** His entire life's work is the study of alien rocks and minerals. This skill doubles the yield of inorganic resources, which is essential for his research and crafting.
+*   **Surveying:** The first step of The Grand Survey is scanning and analyzing planetary bodies. This increases the range of your scanner, making the process more efficient.
+*   **Research Methods:** This skill reduces the resource cost for all research projects and unlocks higher-tier projects faster. For a craftsman and scientist, this is non-negotiable.
+
+This background perfectly encapsulates his past life as a respected academic and provides the exact toolset needed for his journey.
+
+#### **2. Traits (Choose 3)**
+Traits add powerful role-playing and mechanical depth. The optimal choices for Dr. Thorne are:
+*   **Introvert:** This is mandatory. His wife was his only partner; now he works best alone. Mechanically, this increases oxygen capacity when traveling without a companion, which he will do almost exclusively. It synergizes perfectly with his solitary nature .
+*   **Terra Firma:** Years of study have attuned his body to planetary gravity. He feels more capable and clear-minded on a planet's surface. This trait provides a permanent bonus to health and oxygen while on the surface of a planet, which is where he will spend 90% of his time. The penalty to health and oxygen in space is a worthy trade-off for a character who sees his ship as a transport module, not a home .
+*   **Taskmaster:** On the rare occasion he is forced to hire a crew for a specialized task, he is a demanding, exacting commander. This trait makes hired crew members more effective in their roles but costs significantly more to hire, reflecting his high standards and poor interpersonal skills. It’s a flavorful drawback that reinforces his personality.
+
+**Traits to Avoid:**
+*   **Extrovert:** Directly contradicts his entire personality.
+*   **Hero Worshipped:** He has no patience for an annoying fan.
+*   **Kid Stuff:** His focus is entirely on his work, not family.
+*   **Dream Home:** The massive mortgage is a distracting financial burden for a character who reinvests all credits into research and ship upgrades.
+
+#### **3. Appearance & Biometrics**
+The goal is to create a man who looks like he has spent more time studying seismic readouts than sleeping.
+*   **Biometric ID:** Select an older, mature base template. Look for faces with intelligent, intense, or weary expressions.
+*   **Body Type:** Average or thin build. He is a scholar, not a soldier.
+*   **Face:**
+    *   Use the **refine options** to add slight wrinkles around the eyes and forehead, suggesting a life of squinting at data slates and geological samples.
+    *   Choose a **practical, short hairstyle**, perhaps with graying tones.
+    *   **Eyes** should be keen and observant. Consider a sharp, focused eye shape.
+    *   Avoid flamboyant jewelry, tattoos, or makeup. He is a utilitarian scientist.
+*   **Walk Style:** Choose the default walk. His movement is functional, not stylish.
+
+### **First Steps in the Game**
+Once you exit character creation, roleplay immediately begins:
+1.  **Ignore the Main Quest:** After delivering the first Artifact to the Lodge and securing your membership with Constellation (a source of funding and data), politely decline further involvement. Their cosmic mystery is a distraction from your terrestrial one.
+2.  **Fund The Grand Survey:** Your first credits should be spent on a **Better Cutter** from a merchant. Then, immediately start taking **Planetary Survey** and **Resource Procurement** missions from the Mission Board. These are not chores; they are funded expeditions.
+3.  **Establish Your First Outpost:** Your first major goal is to establish a simple outpost on a mineral-rich moon like **Andraphon** in the Narion system to passively generate Iron, Aluminum, and Helium-3—the foundational resources for all future endeavors.
+
+By making these choices, you will have perfectly translated the essence of Dr. Aris Thorne from a character concept into the game world, ready to begin his lonely, magnificent pilgrimage across the stars.
+
+---
+
 ### Core Concept & Identity
 *   **Archetype:** The Grieving Scholar-Obsessive
 *   **Vocation:** Xeno-Geologist & Independent Researcher

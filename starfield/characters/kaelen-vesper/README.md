@@ -1,9 +1,41 @@
 
 # ⚡ Kaelen "Kael" Vesper
 
+***
+
 [Deep-Roleplay Principles: Kaelen Vesper](deep_roleplay.md)  
 [Master Perk & Skill Progression Plan: Kaelen Vesper](perks_skills.md)  
 [The Living Quest Guide: Kaelen Vesper](quest_guide.md)  
+
+---
+
+### Character creation: Kaelen Vesper
+
+**1. Background:**
+*   **SELECT: [FILE NOT FOUND]**
+    *   **In-Universe Justification:** This isn't an oversight; it's a feature. A clean(ish) slate. It suggests a past that has been deliberately scrubbed or is otherwise unaffiliated with the major powers, perfect for a self-made operative from the gritty streets of Neon. The bonus skills (Stealth, Security, Persuasion) are your entire core toolkit.
+
+**2. Traits (Select Exactly 3):**
+This is where your identity is forged. Do not deviate.
+
+*   **SELECT: [WANTED]**
+    *   **Roleplay Reason:** This is your reputation preceding you. It's not a flaw; it's a badge of honor. It means you were good enough to piss off someone powerful, and it ensures the Settled Systems never feel too safe. The occasional ambush is just a cost of doing business and a free delivery of loot and XP.
+*   **SELECT: [EXTROVERT]**
+    *   **Roleplay Reason:** You are a social creature. You feed on the energy of cantinas, starports, and your crew. This trait mandates your roleplay: you must seek out company, making you a more engaging and talkative character. The mechanical benefit is a perfect excuse to always have a companion in tow.
+*   **SELECT: [SPACED]**
+    *   **Roleplay Reason:** You were born in a port, you live on your ship, and you'll probably die in the cockpit. This trait cements your identity as a creature of the void. Your ship is your true home, and you are at your absolute best when you're in it, whether you're talking, trading, or fighting.
+
+**3. Appearance:**
+*   **Vibe:** Sharp, charismatic, but with a hint of weariness. Someone who has seen enough to be cynical but still finds it all amusing.
+*   **Key Features:** Consider a scar or two—not too dramatic, but a "lesson learned." Hair should be stylish but practical. Keep the appearance memorable but not outrageous; a ghost shouldn't be *too* easy to describe.
+
+**4. Starting Skills (From File Not Found):**
+Your initial skills are perfect. They define your entire approach:
+*   **Stealth (Rank 1):** Your first and best option is to avoid being seen.
+*   **Security (Rank 1):** Because every locked door is an insult and a challenge.
+*   **Persuasion (Rank 1):** Your primary weapon. Your mouth writes checks that your guns rarely have to cash.
+
+**Initiate Sequence. The *Event Horizon* is waiting for its captain.**
 
 ---
 
