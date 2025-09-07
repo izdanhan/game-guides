@@ -1,6 +1,3 @@
-Of course. Here are the deep-roleplay principles for Dr. Aris Thorne, designed to be copied directly into a markdown file for your repository.
-
-***
 
 # 🎭 Deep-Roleplay Principles: Dr. Aris Thorne
 

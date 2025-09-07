@@ -1,3 +1,4 @@
+
 # The Living Quest Guide: Dr. Aris Thorne
 
 This is your chronological path through the Settled Systems. Do not rush. Let each discovery breathe. Your journey is one of meticulous science, not hurried heroism.

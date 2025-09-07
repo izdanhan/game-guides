@@ -1,6 +1,3 @@
-Of course. Here is the Master Perk & Skill Progression Plan for Dr. Aris Thorne, designed in the requested table format and tailored specifically for *Starfield*'s mechanics.
-
-***
 
 # Master Perk & Skill Progression Plan: Dr. Aris Thorne
 
