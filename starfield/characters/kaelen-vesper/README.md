@@ -2,9 +2,9 @@
 
 ***
 
-[Deep-Roleplay Principles: Kaelen Vesper](deep_roleplay.md)
-[Master Perk & Skill Progression Plan: Kaelen Vesper](perks_skills.md)
-[The Living Quest Guide: Kaelen Vesper](quest_guide.md)
+[Deep-Roleplay Principles: Kaelen Vesper](deep_roleplay.md)   
+[Master Perk & Skill Progression Plan: Kaelen Vesper](perks_skills.md)   
+[The Living Quest Guide: Kaelen Vesper](quest_guide.md)   
 
 ---
 
