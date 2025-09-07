@@ -4,9 +4,9 @@ Of course. Here are the deep-roleplay principles for Dr. Aris Thorne, designed t
 
 # 🎭 Deep-Roleplay Principles: Dr. Aris Thorne
 
-[Mainpage](README.md)
-[Master Perk & Skill Progression Plan: Dr. Aris Thorne](perks_skills.md)
-[The Living Quest Guide: Dr. Aris Thorne](quest_guide.md)
+[Mainpage](README.md)   
+[Master Perk & Skill Progression Plan: Dr. Aris Thorne](perks_skills.md)   
+[The Living Quest Guide: Dr. Aris Thorne](quest_guide.md)   
 
 ---
 

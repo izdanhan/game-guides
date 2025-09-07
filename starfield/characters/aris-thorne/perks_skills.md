@@ -4,9 +4,9 @@ Of course. Here is the Master Perk & Skill Progression Plan for Dr. Aris Thorne,
 
 # Master Perk & Skill Progression Plan: Dr. Aris Thorne
 
-[Mainpage](README.md)
-[Deep-Roleplay Principles: Dr. Aris Thorne](deep_roleplay.md) 
-[The Living Quest Guide: Dr. Aris Thorne](quest_guide.md)
+[Mainpage](README.md)   
+[Deep-Roleplay Principles: Dr. Aris Thorne](deep_roleplay.md)   
+[The Living Quest Guide: Dr. Aris Thorne](quest_guide.md)   
 
 ---
 

@@ -1,8 +1,8 @@
 # 🎭 Dr. Aris Thorne
 
-[Deep-Roleplay Principles: Dr. Aris Thorne](deep_roleplay.md) 
-[Master Perk & Skill Progression Plan: Dr. Aris Thorne](perks_skills.md)
-[The Living Quest Guide: Dr. Aris Thorne](quest_guide.md)
+[Deep-Roleplay Principles: Dr. Aris Thorne](deep_roleplay.md)   
+[Master Perk & Skill Progression Plan: Dr. Aris Thorne](perks_skills.md)   
+[The Living Quest Guide: Dr. Aris Thorne](quest_guide.md)   
 
 ---
 
