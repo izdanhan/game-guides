@@ -7,7 +7,7 @@
 
 ---
 
-### Character Creation Summary
+### **Character Creation Summary**
 
 | Category | Selection | Rationale |
 | :--- | :--- | :--- |
@@ -18,7 +18,7 @@
 
 ---
 
-### **Detailed Breakdown of Choices**
+### Detailed Breakdown of Choices
 
 #### **1. Background: Professor**
 This is the only logical choice. The Professor background provides the following three starting skills, which are the absolute cornerstone of his build :
@@ -50,6 +50,8 @@ The goal is to create a man who looks like he has spent more time studying seism
     *   **Eyes** should be keen and observant. Consider a sharp, focused eye shape.
     *   Avoid flamboyant jewelry, tattoos, or makeup. He is a utilitarian scientist.
 *   **Walk Style:** Choose the default walk. His movement is functional, not stylish.
+
+---
 
 ### **First Steps in the Game**
 Once you exit character creation, roleplay immediately begins:
