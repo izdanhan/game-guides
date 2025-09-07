@@ -1,11 +1,10 @@
-
 # ⚡ Kaelen "Kael" Vesper
 
 ***
 
-[Deep-Roleplay Principles: Kaelen Vesper](deep_roleplay.md)  
-[Master Perk & Skill Progression Plan: Kaelen Vesper](perks_skills.md)  
-[The Living Quest Guide: Kaelen Vesper](quest_guide.md)  
+[Deep-Roleplay Principles: Kaelen Vesper](deep_roleplay.md)
+[Master Perk & Skill Progression Plan: Kaelen Vesper](perks_skills.md)
+[The Living Quest Guide: Kaelen Vesper](quest_guide.md)
 
 ---
 
@@ -23,7 +22,7 @@ His big break was a job from a high-level Ryujin exec: a simple data retrieval f
 
 In that moment, *Kaelen Vesper* the Neon gutter-rat died, and **Kaelen "Kael" Vesper**, the freelance problem-solver, was born. He renamed the ship **The Event Horizon**—the point of no return. And he had certainly passed it.
 
-He now operates on a simple, brutal code: **The Vesper Accord**. 
+He now operates on a simple, brutal code: **The Vesper Accord**.
 1.  **Get Paid.**
 2.  **No Questions Asked.**
 3.  **The Package *Always* Gets Through.**
@@ -33,36 +32,6 @@ His morality is a sliding scale calibrated by credit chips and personal freedom.
 He is a master of the deal because his life depends on it. His tongue is his primary weapon, his charm a shield, and his reputation his only currency. He is a creature of the void because it is the only place where he is truly free, ungovernable, and utterly untouchable. The *Event Horizon* is his sanctuary, his flagship, and his avatar—a silent, swift predator in the dark between stars.
 
 He isn't searching for answers. He's searching for the next score, the next challenge, the next step towards a goal only he understands: to become so wealthy, so connected, and so feared that the entire Settled Systems become his personal playground. He is a sovereign entity of chaos and credit, and business has never been better.
-
----
-
-### Character creation: Kaelen Vesper
-
-**1. Background:**
-*   **SELECT: [FILE NOT FOUND]**
-    *   **In-Universe Justification:** This isn't an oversight; it's a feature. A clean(ish) slate. It suggests a past that has been deliberately scrubbed or is otherwise unaffiliated with the major powers, perfect for a self-made operative from the gritty streets of Neon. The bonus skills (Stealth, Security, Persuasion) are your entire core toolkit.
-
-**2. Traits (Select Exactly 3):**
-This is where your identity is forged. Do not deviate.
-
-*   **SELECT: [WANTED]**
-    *   **Roleplay Reason:** This is your reputation preceding you. It's not a flaw; it's a badge of honor. It means you were good enough to piss off someone powerful, and it ensures the Settled Systems never feel too safe. The occasional ambush is just a cost of doing business and a free delivery of loot and XP.
-*   **SELECT: [EXTROVERT]**
-    *   **Roleplay Reason:** You are a social creature. You feed on the energy of cantinas, starports, and your crew. This trait mandates your roleplay: you must seek out company, making you a more engaging and talkative character. The mechanical benefit is a perfect excuse to always have a companion in tow.
-*   **SELECT: [SPACED]**
-    *   **Roleplay Reason:** You were born in a port, you live on your ship, and you'll probably die in the cockpit. This trait cements your identity as a creature of the void. Your ship is your true home, and you are at your absolute best when you're in it, whether you're talking, trading, or fighting.
-
-**3. Appearance:**
-*   **Vibe:** Sharp, charismatic, but with a hint of weariness. Someone who has seen enough to be cynical but still finds it all amusing.
-*   **Key Features:** Consider a scar or two—not too dramatic, but a "lesson learned." Hair should be stylish but practical. Keep the appearance memorable but not outrageous; a ghost shouldn't be *too* easy to describe.
-
-**4. Starting Skills (From File Not Found):**
-Your initial skills are perfect. They define your entire approach:
-*   **Stealth (Rank 1):** Your first and best option is to avoid being seen.
-*   **Security (Rank 1):** Because every locked door is an insult and a challenge.
-*   **Persuasion (Rank 1):** Your primary weapon. Your mouth writes checks that your guns rarely have to cash.
-
-**Initiate Sequence. The *Event Horizon* is waiting for its captain.**
 
 ---
 
@@ -90,13 +59,43 @@ Your initial skills are perfect. They define your entire approach:
     *   **Roleplay:** This isn't a mistake; it's a feature. It keeps him sharp, always watching the shadows. He wears the bounty as a badge of honor—proof he pissed off someone important enough to matter.
 *   **Extrovert:**
     *   **Effect:** Gains strength from the company of others. Being alone is draining.
-    *   **Roleplay:** He is a social creature. He frequens cantinas and starports not just for work, but to recharge. Long solo flights in the deep black leave him irritable and restless. He needs a crew, even if it's just for the noise.
+    *   **Roleplay:** He is a social creature. He frequents cantinas and starports not just for work, but to recharge. Long solo flights in the deep black leave him irritable and restless. He needs a crew, even if it's just for the noise.
 *   **Spaced:**
     *   **Effect:** Born and comfortable in zero-g. Health and endurance are boosted in space.
     *   **Roleplay:** A ship is his true home; planets are just places to do business. He is more agile, more confident, and more in his element during ship combat and boarding actions. Terra firma feels slow and heavy.
 
 ### The Call to Adventure
 The Starfield is Kael's chessboard, and everyone in it is a piece to be moved, sacrificed, or cashed in. The Constellation's noble quest for answers is either the biggest scam he's ever heard or the ultimate score. He isn't driven by mystery; he's driven by opportunity. He'll dive headfirst into faction wars, ancient mysteries, and corporate espionage not for glory or truth, but for the sheer, exhilarating challenge of it—and for the massive payday that's sure to be waiting at the end. Assuming, of course, he doesn't decide to keep it all for himself.
+
+---
+
+### Character Creation: Kaelen Vesper
+
+**1. Background:**
+*   **SELECT: [FILE NOT FOUND]**
+    *   **In-Universe Justification:** This isn't an oversight; it's a feature. A clean(ish) slate. It suggests a past that has been deliberately scrubbed or is otherwise unaffiliated with the major powers, perfect for a self-made operative from the gritty streets of Neon. The bonus skills (Stealth, Security, Persuasion) are your entire core toolkit.
+
+**2. Traits (Select Exactly 3):**
+This is where your identity is forged. Do not deviate.
+
+*   **SELECT: [WANTED]**
+    *   **Roleplay Reason:** This is your reputation preceding you. It's not a flaw; it's a badge of honor. It means you were good enough to piss off someone powerful, and it ensures the Settled Systems never feel too safe. The occasional ambush is just a cost of doing business and a free delivery of loot and XP.
+*   **SELECT: [EXTROVERT]**
+    *   **Roleplay Reason:** You are a social creature. You feed on the energy of cantinas, starports, and your crew. This trait mandates your roleplay: you must seek out company, making you a more engaging and talkative character. The mechanical benefit is a perfect excuse to always have a companion in tow.
+*   **SELECT: [SPACED]**
+    *   **Roleplay Reason:** You were born in a port, you live on your ship, and you'll probably die in the cockpit. This trait cements your identity as a creature of the void. Your ship is your true home, and you are at your absolute best when you're in it, whether you're talking, trading, or fighting.
+
+**3. Appearance:**
+*   **Vibe:** Sharp, charismatic, but with a hint of weariness. Someone who has seen enough to be cynical but still finds it all amusing.
+*   **Key Features:** Consider a scar or two—not too dramatic, but a "lesson learned." Hair should be stylish but practical. Keep the appearance memorable but not outrageous; a ghost shouldn't be *too* easy to describe.
+
+**4. Starting Skills (From File Not Found):**
+Your initial skills are perfect. They define your entire approach:
+*   **Stealth (Rank 1):** Your first and best option is to avoid being seen.
+*   **Security (Rank 1):** Because every locked door is an insult and a challenge.
+*   **Persuasion (Rank 1):** Your primary weapon. Your mouth writes checks that your guns rarely have to cash.
+
+**Initiate Sequence. The *Event Horizon* is waiting for its captain.**
 
 ---
 

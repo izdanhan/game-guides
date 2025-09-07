@@ -33,8 +33,8 @@ He is an explorer because there is no other choice. The answers aren't on the we
 
 | Category | Selection | Rationale |
 | :--- | :--- | :--- |
-| **Background** | **Professor** | Provides the perfect scholarly foundation with starting skills in **Geology** (xeno-geology focus), **Surveying** (planetary analysis), and **Research Methods** (scientific rigor) . |
-| **Traits** | **Introvert**, **Terra Firma**, **Taskmaster** | **Introvert** suits his solitary nature and provides a game-play benefit when alone. **Terra Firma** enhances his capabilities on planetary surfaces, his true laboratory. **Taskmaster** reflects his exacting standards as a leader, though he rarely uses crew . |
+| **Background** | **Professor** | Provides the perfect scholarly foundation with starting skills in **Geology** (xeno-geology focus), **Surveying** (planetary analysis), and **Research Methods** (scientific rigor). |
+| **Traits** | **Introvert**, **Terra Firma**, **Taskmaster** | **Introvert** suits his solitary nature and provides a game-play benefit when alone. **Terra Firma** enhances his capabilities on planetary surfaces, his true laboratory. **Taskmaster** reflects his exacting standards as a leader, though he rarely uses crew. |
 | **Body & Face** | **Older, Weathered Academic** | Choose a body type and face that reflects his age (50s+) and profession. Select a **serious, focused expression**. Use **refine options** to add subtle signs of stress and aging from a life of grief and intense study. Hair should be practical, perhaps graying. |
 | **Name** | **Aris Thorne** | Finalize his identity. |
 
@@ -43,7 +43,7 @@ He is an explorer because there is no other choice. The answers aren't on the we
 ### Detailed Breakdown of Choices
 
 #### **1. Background: Professor**
-This is the only logical choice. The Professor background provides the following three starting skills, which are the absolute cornerstone of his build :
+This is the only logical choice. The Professor background provides the following three starting skills, which are the absolute cornerstone of his build:
 *   **Geology:** His entire life's work is the study of alien rocks and minerals. This skill doubles the yield of inorganic resources, which is essential for his research and crafting.
 *   **Surveying:** The first step of The Grand Survey is scanning and analyzing planetary bodies. This increases the range of your scanner, making the process more efficient.
 *   **Research Methods:** This skill reduces the resource cost for all research projects and unlocks higher-tier projects faster. For a craftsman and scientist, this is non-negotiable.
@@ -52,8 +52,8 @@ This background perfectly encapsulates his past life as a respected academic and
 
 #### **2. Traits (Choose 3)**
 Traits add powerful role-playing and mechanical depth. The optimal choices for Dr. Thorne are:
-*   **Introvert:** This is mandatory. His wife was his only partner; now he works best alone. Mechanically, this increases oxygen capacity when traveling without a companion, which he will do almost exclusively. It synergizes perfectly with his solitary nature .
-*   **Terra Firma:** Years of study have attuned his body to planetary gravity. He feels more capable and clear-minded on a planet's surface. This trait provides a permanent bonus to health and oxygen while on the surface of a planet, which is where he will spend 90% of his time. The penalty to health and oxygen in space is a worthy trade-off for a character who sees his ship as a transport module, not a home .
+*   **Introvert:** This is mandatory. His wife was his only partner; now he works best alone. Mechanically, this increases oxygen capacity when traveling without a companion, which he will do almost exclusively. It synergizes perfectly with his solitary nature.
+*   **Terra Firma:** Years of study have attuned his body to planetary gravity. He feels more capable and clear-minded on a planet's surface. This trait provides a permanent bonus to health and oxygen while on the surface of a planet, which is where he will spend 90% of his time. The penalty to health and oxygen in space is a worthy trade-off for a character who sees his ship as a transport module, not a home.
 *   **Taskmaster:** On the rare occasion he is forced to hire a crew for a specialized task, he is a demanding, exacting commander. This trait makes hired crew members more effective in their roles but costs significantly more to hire, reflecting his high standards and poor interpersonal skills. It’s a flavorful drawback that reinforces his personality.
 
 **Traits to Avoid:**
@@ -88,7 +88,7 @@ By making these choices, you will have perfectly translated the essence of Dr. A
 ### Core Concept & Identity
 *   **Archetype:** The Grieving Scholar-Obsessive
 *   **Vocation:** Xeno-Geologist & Independent Researcher
-*   **Ship:** *The Forge* (A beat-up, modified Kepler-class scout ship)
+*   **Ship:** *The Forge* (A beat-up, modified Kepler-class scout ship) *[Note: The player starts with the "Frontier" but can rename it to "The Forge" at a ship technician.]*
 *   **Defining Quote:** *"Every rock has a story. You just need to know how to listen. The ones out here… they sing songs of creation itself. And I intend to transcribe every last note."*
 
 ### Defining History & Motivations
@@ -120,3 +120,9 @@ The Starfield is not a place of adventure for Aris Thorne; it is a library. Ever
 ---
 
 Continue to [Deep-Roleplay Principles: Dr. Aris Thorne](deep_roleplay.md)
+
+### Summary of Changes:
+1.  **Ship Name Clarification:** Added a brief note `*[Note: The player starts with the "Frontier" but can rename it to "The Forge" at a ship technician.]*` under the **Ship** entry in the *Core Concept* section. This is a minor point of gameplay logic, as the player does not start with a ship named *The Forge*. This note simply clarifies how to achieve the lore in-game without changing the intended flavor.
+2.  **Formatting Consistency:** Removed a few stray spaces before periods in the rationale columns of the summary table and the trait descriptions. This was purely for text formatting cleanliness.
+
+The document is otherwise perfectly logical, consistent, and excellently crafted. The character's backstory, motivations, and gameplay choices are all seamlessly integrated. Well done.
