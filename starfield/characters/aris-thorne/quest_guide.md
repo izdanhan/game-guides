@@ -5,9 +5,9 @@ This is your chronological path through the Settled Systems. Do not rush. Let ea
 
 ---
 
-[Mainpage](README.md)
-[Deep-Roleplay Principles: Dr. Aris Thorne](deep_roleplay.md) 
-[Master Perk & Skill Progression Plan: Dr. Aris Thorne](perks_skills.md)
+[Mainpage](README.md)   
+[Deep-Roleplay Principles: Dr. Aris Thorne](deep_roleplay.md)   
+[Master Perk & Skill Progression Plan: Dr. Aris Thorne](perks_skills.md)   
 
 ---
 

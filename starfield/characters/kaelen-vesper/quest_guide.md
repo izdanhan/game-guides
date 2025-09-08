@@ -1,12 +1,13 @@
+
 # The Living Quest Guide: Kaelen Vesper
 
 This is your path to becoming a legend of the underworld. Move fast, talk smooth, and always have an exit strategy. Your journey is one of opportunity, credit chips, and clean getaways.
 
 ---
 
-[Mainpage](README.md)
-[Deep-Roleplay Principles: Kaelen Vesper](deep_roleplay.md)
-[Master Perk & Skill Progression Plan: Kaelen Vesper](perks_skills.md)
+[Mainpage](README.md)   
+[Deep-Roleplay Principles: Kaelen Vesper](deep_roleplay.md)   
+[Master Perk & Skill Progression Plan: Kaelen Vesper](perks_skills.md)   
 
 ---
 
